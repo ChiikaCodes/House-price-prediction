@@ -1,0 +1,6 @@
+scikit-learn
+pandas 
+numpy
+matplotlib
+steamlit
+steamlit-option-menu
